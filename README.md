@@ -6,5 +6,4 @@ Considering your datapoints as functions has many advantages.
 
 ## Contents
 - Resources
-
 - Papers
