@@ -7,3 +7,9 @@ Considering your datapoints as functions has many advantages.
 ## Contents
 - Resources
 - Papers
+  - Theory
+  - Unsupervised
+    - Generative Models
+  - Supervised
+    - Regression
+    - Classification 
