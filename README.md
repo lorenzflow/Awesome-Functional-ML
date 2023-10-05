@@ -33,7 +33,7 @@ P.s.: If you have suggestions for papers to be added to this collection feel fre
 
 ### Unsupervised
 
-#### Learning Representations
+#### Representation Learning
 * [Functional Autoencoders for Functional Data Representation Learning](http://faculty.ist.psu.edu/vhonavar/Papers/FAESDM.pdf)
 
 #### Generative Modelling
