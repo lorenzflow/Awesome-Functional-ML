@@ -37,7 +37,9 @@ P.s.: If you have suggestions for papers to be added to this collection feel fre
 * [Functional Autoencoders for Functional Data Representation Learning](http://faculty.ist.psu.edu/vhonavar/Papers/FAESDM.pdf)
 
 #### Generative Modelling
-
+##### Evaluation
+* [A Kernel Two-Sample Test for Functional Data](https://www.jmlr.org/papers/volume23/20-1180/20-1180.pdf)
+  
 ##### Energy Based Models
 * [Energy-Based Models for Functional Data using Path Measure Tilting](https://arxiv.org/abs/2202.01929)
 
@@ -50,3 +52,4 @@ P.s.: If you have suggestions for papers to be added to this collection feel fre
 * [Score-based Diffusion Models in Function Space](http://arxiv.org/abs/2302.07400)
 
 ### Supervised
+* [Modern Non-Linear Function-on-Function Regression](https://arxiv.org/abs/2107.14151)
