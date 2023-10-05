@@ -1,7 +1,7 @@
 # Awesome-Functional-ML (WIP!)
 This repo contains a collection of papers on ML for functional data. 
 
-Functional data, data where an observation is considered a function, arises in many different fields. Important examples include but are not limited to economics, medicine and chemometrics. For example in a medical study the concentration of a certain protein in the blood of patient n at time t could be considered as a functional observation. With developments in modern technology (among others wearable devices), more and more data are collected continuously over a time interval or discretely at many time points in an interval. This is for example the case in the stock market where price changes occur in fractions of seconds. Another example is the electricity demand measured over time. Longitudinal data is a common type of functional data but not the only one. For example probability distributions over multiple measurements for each subject or images could be considered as functional data. The presence of functional data in many real-world problems requires the study of methods suitable for such data and as a consequence the field of functional data analysis has grown dramatically in the past decades.
+Functional data, data where an observation is considered as a function, arises in many different fields. Important examples include but are not limited to economics, medicine and chemometrics. For example in a medical study the concentration of a certain protein in the blood of patient n at time t could be considered as a functional observation. With developments in modern technology (among others wearable devices), more and more data are collected continuously over a time interval or discretely at many time points in an interval. This is for example the case in the stock market where price changes occur in fractions of seconds. Another example is the electricity demand measured over time. Longitudinal data is a common type of functional data but not the only one. For example probability distributions over multiple measurements for each subject or images could be considered as functional data. The presence of functional data in many real-world problems requires the study of methods suitable for such data and as a consequence the field of functional data analysis has grown dramatically in the past decades.
 
 Treating data as functions instead of multivariate vectors can be advantageous as it for example allows the evaluation at every time point as well as the use of derivatives. However, another reason is that classical methods can break down when applied to functional data and care must be taken in the development of new methods.
 
@@ -34,6 +34,7 @@ P.s.: If you have suggestions for papers to be added to this collection feel fre
 ### Unsupervised
 
 #### Learning Representations
+* [Functional Autoencoders for Functional Data Representation Learning](http://faculty.ist.psu.edu/vhonavar/Papers/FAESDM.pdf)
 
 #### Generative Modelling
 
