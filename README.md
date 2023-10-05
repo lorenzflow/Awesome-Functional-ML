@@ -35,8 +35,15 @@ P.s.: If you have suggestions for papers to be added to this collection feel fre
 
 #### Learning Representations
 
-
 #### Generative Modelling
 
+##### Energy Based Models
+* [Energy-Based Models for Functional Data using Path Measure Tilting](https://arxiv.org/abs/2202.01929)
+
+##### Diffusion Generative Models
+* [Spectral Diffusion Processes](https://arxiv.org/pdf/2209.14125)
+* [$\infty$-Diff: Infinite Resolution Diffusion with Subsampled Mollified States](http://arxiv.org/abs/2303.18242)
+* [Diffusion Generative Models in Infinite Dimensions](http://arxiv.org/abs/2212.00886)
+* [Score-based Diffusion Models in Function Space](http://arxiv.org/abs/2302.07400)
 
 ### Supervised
