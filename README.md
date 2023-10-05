@@ -42,6 +42,8 @@ P.s.: If you have suggestions for papers to be added to this collection feel fre
 
 ##### Diffusion Generative Models
 * [Spectral Diffusion Processes](https://arxiv.org/pdf/2209.14125)
+* [Diffusion Probabilistic Fields](https://openreview.net/pdf?id=ik91mY-2GN)
+* [Mainfold Diffusion Fields](https://arxiv.org/pdf/2305.15586.pdf)
 * [$\infty$-Diff: Infinite Resolution Diffusion with Subsampled Mollified States](http://arxiv.org/abs/2303.18242)
 * [Diffusion Generative Models in Infinite Dimensions](http://arxiv.org/abs/2212.00886)
 * [Score-based Diffusion Models in Function Space](http://arxiv.org/abs/2302.07400)
